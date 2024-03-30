@@ -1,2 +1,1 @@
-# TaskQueueExamples
-Examples of TaskQueues using various different approaches
+﻿WIP example impls
